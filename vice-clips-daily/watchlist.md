@@ -7,3 +7,4 @@ Creators, streams and channels to watch. Campaign creators first.
 | Kai Cenat | Twitch | https://twitch.tv/kaicenat | Yes: $10K pool | Live GTA 6 now; pool needs 750K approved views |
 | KreekCraft | YouTube/Twitch | https://contentrewards.com/c/campaigns/2eaa14fb-6927-4136-897e-b096e0d907d6 | Yes: $1/1K | Overlay must show |
 | CaseOh | Twitch | https://twitch.tv/caseoh_ | No | Big funny GTA 6 clips; credit only |
+| Kai Cenat VOD 2932305259 | Twitch | https://www.twitch.tv/videos/2932305259 | Yes: $10K pool | 47 h VOD; Nov 19 CT ≈ 17:00–41:00 into it. Viewer clips list the hot spots |
