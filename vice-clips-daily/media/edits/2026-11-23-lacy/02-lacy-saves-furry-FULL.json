@@ -1,0 +1,35 @@
+{
+ "file": "jobs/s2-furry-aa7cc7d2/edits/story_furry.mp4",
+ "start": 74.0,
+ "end": 233.1,
+ "layout": "react",
+ "hook": "Lacy SAVED a furry from the GTA 6 cops",
+ "title": "Lacy SAVED a furry from the GTA 6 cops",
+ "cam": "0.002:0.002:0.252:0.252",
+ "source_url": "/home/user/GTA-clipper/vice-clips-daily/media/raw/lacy/S2_furry.mp4",
+ "source_title": "S2_furry",
+ "source_channel": null,
+ "segments": [
+  [
+   74.0,
+   82.5
+  ],
+  [
+   99.5,
+   114.9
+  ],
+  [
+   137.4,
+   147.8
+  ],
+  [
+   161.3,
+   172.4
+  ],
+  [
+   222.7,
+   233.1
+  ]
+ ],
+ "length": 55.8
+}

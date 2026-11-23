@@ -1,0 +1,27 @@
+{
+ "file": "jobs/s1-dog-78f18902/edits/story_dog.mp4",
+ "start": 102.6,
+ "end": 191.1,
+ "layout": "react",
+ "hook": "Lacy tried to PET the dog in GTA 6",
+ "title": "Lacy tried to PET the dog in GTA 6",
+ "cam": "0.002:0.002:0.252:0.252",
+ "source_url": "/home/user/GTA-clipper/vice-clips-daily/media/raw/lacy/S1_dog.mp4",
+ "source_title": "S1_dog",
+ "source_channel": null,
+ "segments": [
+  [
+   102.6,
+   110.6
+  ],
+  [
+   144.9,
+   173.4
+  ],
+  [
+   189.0,
+   191.1
+  ]
+ ],
+ "length": 38.6
+}

@@ -1,0 +1,23 @@
+{
+ "file": "jobs/s3-fridge-cac96590/edits/story_fridge.mp4",
+ "start": 52.6,
+ "end": 118.2,
+ "layout": "react",
+ "hook": "Lacy is BROKE in GTA 6… but LOOK at this view",
+ "title": "Lacy is BROKE in GTA 6… but LOOK at this view",
+ "cam": "0.002:0.002:0.252:0.252",
+ "source_url": "/home/user/GTA-clipper/vice-clips-daily/media/raw/lacy/S3_fridge.mp4",
+ "source_title": "S3_fridge",
+ "source_channel": null,
+ "segments": [
+  [
+   52.6,
+   73.8
+  ],
+  [
+   107.0,
+   118.2
+  ]
+ ],
+ "length": 32.4
+}
